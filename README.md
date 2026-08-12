@@ -1,4 +1,6 @@
 # Programas de computacion aplicada
+David Isaias Velazquez Calvillo
+MITA
 
 ## Actividad 1
 - Programa 1
