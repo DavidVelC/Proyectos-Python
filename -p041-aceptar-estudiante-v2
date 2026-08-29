@@ -1,0 +1,33 @@
+# p037-aceptar-estudiante.py
+# Universidad Kitty Kat SA
+# Aceptar estudiantes según sexo, edad y promedio
+
+print('\033[2J\033[H', end='')
+print('Universidad Kitty Kat SA')
+print('Proceso de admision\n')
+
+nombre = input('Nombre del aspirante: ')
+sexo = input('Sexo (h/m): ')
+edad = int(input('Edad: '))
+
+print('\nDame tus 3 calificaciones:')
+c1 = float(input('Calificacion 1: '))
+c2 = float(input('Calificacion 2: '))
+c3 = float(input('Calificacion 3: '))
+
+promedio = (c1 + c2 + c3) / 3
+
+print(f'\nPromedio: {promedio:.2f}')
+
+if sexo != 'm':
+    print(f'\n{nombre}, no eres aceptada porque el requisito es ser mujer.')
+elif edad <= 21:
+    print(f'\n{nombre}, no eres aceptada porque debes ser mayor de 21 años.')
+elif promedio < 8:
+    print(f'\n{nombre}, no eres aceptada porque tu promedio es menor a 8.')
+elif promedio > 9.5:
+    print(f'\n{nombre}, no eres aceptada porque tu promedio es mayor a 9.5.')
+elif sexo == 'm' and edad > 21 and promedio >= 8 and promedio <= 9.5:
+    print(f'\nFelicidades {nombre}! Has sido aceptada en la Universidad Kitty Kat SA.')
+
+print('\nFInish')
