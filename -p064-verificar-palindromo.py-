@@ -1,0 +1,25 @@
+#-p064-verificar-palindromo.py
+#verifica si un numero es palindromo
+
+while True:
+    print('\033[H\033[J')
+
+    num = int(input('Introduce un número para verificar si es palíndromo: '))
+
+    original = num
+    invertido = 0
+
+    while num > 0:
+        digito = num % 10
+        invertido = invertido * 10 + digito
+        num = num // 10
+
+    if original == invertido:
+        print(f'El número {original} es un palíndromo.')
+    else:
+        print(f'El número {original} no es un palíndromo.')
+
+    if input('\n\n¿Deseas continuar (S/N)? ').upper() == 'N':
+        break
+
+print('finish')
