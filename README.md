@@ -101,4 +101,12 @@ MITA
 - p070-suma-pares-impares.py
 - p071-suma-promedio-numeros.py
 - p072-suma-mutiplos.py
-- p073-cifrado-cesar.py
+- p073-cifrado-cesar
+
+## Actividad 10
+- p074-tablas-todas.py
+- p075-triangulo-caracter.py
+- p076-piramide-caracter.py
+- p077-factorial-numeros.py
+- p078-combina-colores.py
+- p079-suma-potencias.py
