@@ -117,3 +117,11 @@ MITA
 - p082-cuadro-hueco-caracter.py
 - p083-rombo-caracter.py
 - p084-triangulo-invertido-numeros.py
+
+## Actividad 12
+- p086-acceder-lista.py
+- p087-modificar-lista.py
+- p088-agregar-lista.py
+- p089-eliminar-lista.py
+- p090-iterar-lista.py
+- p091-lista-de-gastos.py
