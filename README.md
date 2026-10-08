@@ -134,10 +134,18 @@ MITA
 - p096-procesar-datos-sensores.py
 - p097-producto-punto.py
 
-## Actividad 15
+## Actividad 14
 - p098-cuadrados-lista.py
 - p099-filtrar-pares.py
 - p100-normalizar-nombres.py
 - p101-clasificar-temperaturas.py
 - p102-aplanar-matriz.py
 - p103-resumen-ventas.py
+
+## Actividad 15
+- p112-datos-estudiante.py
+- p113-calificaciones-estudiante.py
+- p114-nombres-edades.py
+- p115-conversor-unidades.py
+- p116-conversion-divisas.py
+- p117-punto-de-venta.py
