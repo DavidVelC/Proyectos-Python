@@ -159,3 +159,9 @@ MITA
 - p109-lista-impares.py
 - p110-comprension-filtra-palabras.py
 - p111-comprension-pares-cuadrados.py
+
+## Actividad 17
+- p118-lote-autos.py
+- p119-registro-estudiantes.py
+- p120-reporte-ventas.py
+- p121-area-figuras.py
