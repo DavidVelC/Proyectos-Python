@@ -177,3 +177,7 @@ MITA
 ## Actividad 18
 - p128-municipios.py
 - p129-operaciones-conjuntos.py
+
+## Tarea 7
+- p130-conjunto-personas.py
+- p131-conjunt-numeros.py
