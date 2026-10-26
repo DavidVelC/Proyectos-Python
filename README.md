@@ -181,3 +181,7 @@ MITA
 ## Tarea 7
 - p130-conjunto-personas.py
 - p131-conjunt-numeros.py
+
+## Actividad 19
+- p131-coordenadas.py
+- p132-alumnos-tuplas.py
