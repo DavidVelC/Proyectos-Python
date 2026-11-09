@@ -186,6 +186,10 @@ MITA
 - p131-coordenadas.py
 - p132-alumnos-tuplas.py
 
+## Tarea 8
+- p134-coordenadas-tuplas.py
+- p135-alumnos-tuplas.py
+
 ## Examen
 - p136-AeroRegistro
 
