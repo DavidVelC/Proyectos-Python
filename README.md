@@ -187,4 +187,22 @@ MITA
 - p132-alumnos-tuplas.py
 
 ## Examen
-- p135-AeroRegistro
+- p136-AeroRegistro
+
+## Actividad 20
+- p137-funcion-simple.py
+- p138-funcion-parametro.py
+- p139-funcion-parametros.py
+- p140-func-param-nombre.py
+- p141-func-param-defecto.py
+- p142-func-mas-param.py
+- p143-funcion-retorno.py
+- p144-tabla-multiplicar.py
+- p145-cuadro-caracter.py
+- p146-numero-mayor.py
+- p147-estacion-año.py
+- p148-temperatura.py
+- p149-suma-digitos.py
+- p150-factorial.py
+- p151-promedio-letra.py
+- p152-suma-rango.py
